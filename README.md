@@ -16,7 +16,7 @@
 ## 手动更新命令
 
 ```bash
-cd ~/pharma-ai-survey
+cd "/Users/zhouyu/个人文件夹/公众号文章/问卷调查结果/pharma-ai-survey"
 python3 update.py <sav文件路径>
 git add . && git commit -m "update: N份回复" && git push
 ```
